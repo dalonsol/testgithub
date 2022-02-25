@@ -1,2 +1,2 @@
-print('hola mundo')
-print('adios')
+print('hi')
+print('adios mundo')
